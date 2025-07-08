@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Olá! Eu sou George Franklin
 
-<!--
-**georgefranklin-dev/georgefranklin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro de Software em transição com trajetória sólida em TI institucional e foco em IA aplicada à transformação humana.
 
-Here are some ideas to get you started:
+🎖 Ex-líder de informática no Exército Brasileiro  
+🎓 Pós-graduação em Governança de TI | Teologia | Neurociência  
+💡 Hoje construo soluções com IA, automações e propósito
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Missão
+
+Construir sistemas que não apenas funcionem — mas que **transformem pessoas**.  
+União entre **engenharia, neurociência e propósito eterno.**
+
+---
+
+## 🛠️ Tecnologias e stack em uso:
+
+- **Linguagens**: JavaScript, Python  
+- **Frameworks**: Node.js, React, Next.js, Flask  
+- **IA e automações**: OpenAI, Typebot, N8N, HuggingFace, Langchain  
+- **Cloud & DevOps**: AWS, GitHub Actions, Docker (em formação)
+
+---
+
+## 🔥 Projetos em andamento:
+
+- `bot-devocional-ia`: assistente espiritual com IA + linguagem bíblica
+- `app-biblioterapia`: automação devocional com base emocional + neurocientífica
+- `course-funnel-ia`: jornada de ensino com IA e copy espiritual adaptável
+
+---
+
+## 🌐 Conecte-se:
+
+- [LinkedIn](https://www.linkedin.com/in/...) *(atualize aqui depois)*  
+- YouTube (em breve)  
+- Canal de Reels (em construção)
+
+---
+> “Engenharia é organização. Palavra é propósito. Neurociência é condução.  
+> Quando os três se alinham, o digital vira discipulado.”
